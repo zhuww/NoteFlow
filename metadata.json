@@ -1,0 +1,5 @@
+{
+  "name": "NoteFlow - Sheet Music Reader",
+  "description": "An AI-powered sheet music assistant that analyzes score images, extracts notes and tempo, and plays them back with visual tracking.",
+  "requestFramePermissions": []
+}
